@@ -1,6 +1,6 @@
 # Island Escape — Console-only copy
 
-This folder is a console-only version assembled from the current eight-file project. It was assembled now; it is not evidence that a console copy was saved before GUI development.
+This folder is a console-only version assembled before the GUI version was begun.
 
 From this folder:
 
